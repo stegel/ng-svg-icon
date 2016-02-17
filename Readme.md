@@ -37,7 +37,7 @@ Basic usage:
 <ng-svg-icon name="'icon-home'"></ng-svg-icon>
 ```
 
-CSS Styleing
+CSS Styling
 ```html
 <ng-svg-icon class="icon" name="'icon-home'"></ng-svg-icon>
 ```
