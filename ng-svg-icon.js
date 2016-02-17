@@ -8,7 +8,7 @@
                 scope: {
                     icon: "=icon"
                 },
-                template: "<svg viewbox='0 0 100 100' id='svg-link'><use xlink:href='{{icon}}'></use></svg>"
+                template: "<svg id='svg-link'><use xlink:href='{{icon}}'></use></svg>"
             };
         });
 }());
